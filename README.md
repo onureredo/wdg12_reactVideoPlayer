@@ -1,6 +1,6 @@
 ## React Video Player
 
-<img src="https://i.ibb.co/khpnDkh/wp.png" width="400"/>
+<img src="https://i.ibb.co/khpnDkh/wp.png" width="800"/>
 
 ## Docs and resources:
 
