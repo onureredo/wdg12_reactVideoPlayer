@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('https://www.creativefabrica.com/wp-content/uploads/2022/06/18/White-abstract-background-design-Graphics-32548107-1.jpg');
+}
